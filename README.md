@@ -111,7 +111,6 @@ To convert these into visuals or tables, consider importing them into tools like
 Possible extensions include:
 
 * **Higher disaggregation**: modeling by product type, time period, or detailed supply nodes.
-* **Real-world company data**: to validate and calibrate model output.
 * **Enhanced modeling**: incorporate stochastic demands, multi-period rolling horizons, or integrated cost-service tradeoffs.
 * **Automation & pipeline integration**: linking data ingestion, model run, and reporting in seamless workflows.
 
