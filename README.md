@@ -125,7 +125,7 @@ Mayara Guedes Leão: (DEP-UFMG) Universidade Federal de Minas Gerais (UFMG).
 Thais Madeira da Silva: (DEP-UFMG) Universidade Federal de Minas Gerais (UFMG).
 
 **Acknowledgments:** Support of UFMG, CAPES, and an the team of the animal feed industry for enabling S&OP modeling and data collection.
----
+*---
 
 ---
 
