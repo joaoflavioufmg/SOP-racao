@@ -137,5 +137,4 @@ If you use or reference this work, please cite it as follows:
 
 ---
 
-*Feel free to adapt sections as needed—this structure is designed to maximize clarity and usability for both researchers and practitioners.*
 
