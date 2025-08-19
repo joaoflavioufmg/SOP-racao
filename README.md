@@ -1,4 +1,3 @@
-````markdown
 # Planning Optimization in Agro-Industrial Supply Chain  
 ## An S&OP Proposal for the Animal Feed Sector
 
